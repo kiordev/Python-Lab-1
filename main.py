@@ -45,5 +45,5 @@ elif task_number_marker == 2:
     else:
         print("T num is out of border")
 else:
-    print("Wrong Task Number")
+    print("Error: Wrong Task Number")
 
